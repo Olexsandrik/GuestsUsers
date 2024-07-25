@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Olexsandrik/UsersVisite/static/css/main.cd5d95a0.css",
+    "main.js": "/Olexsandrik/UsersVisite/static/js/main.b74a2754.js",
+    "index.html": "/Olexsandrik/UsersVisite/index.html",
+    "main.cd5d95a0.css.map": "/Olexsandrik/UsersVisite/static/css/main.cd5d95a0.css.map",
+    "main.b74a2754.js.map": "/Olexsandrik/UsersVisite/static/js/main.b74a2754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.b74a2754.js"
+  ]
+}
