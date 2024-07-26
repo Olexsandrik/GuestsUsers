@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/UsersVisite/static/css/main.cd5d95a0.css",
-    "main.js": "/UsersVisite/static/js/main.6b3080ea.js",
-    "static/media/success.svg": "/UsersVisite/static/media/success.4e08f49e92f6329b379e8b6827203a42.svg",
-    "index.html": "/UsersVisite/index.html",
-    "static/media/plus.svg": "/UsersVisite/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
-    "static/media/minus.svg": "/UsersVisite/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
-    "main.cd5d95a0.css.map": "/UsersVisite/static/css/main.cd5d95a0.css.map",
-    "main.6b3080ea.js.map": "/UsersVisite/static/js/main.6b3080ea.js.map"
+    "main.css": "/Olexsandrik/GuestsUser/static/css/main.cd5d95a0.css",
+    "main.js": "/Olexsandrik/GuestsUser/static/js/main.29c38674.js",
+    "static/media/success.svg": "/Olexsandrik/GuestsUser/static/media/success.4e08f49e92f6329b379e8b6827203a42.svg",
+    "index.html": "/Olexsandrik/GuestsUser/index.html",
+    "static/media/plus.svg": "/Olexsandrik/GuestsUser/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
+    "static/media/minus.svg": "/Olexsandrik/GuestsUser/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
+    "main.cd5d95a0.css.map": "/Olexsandrik/GuestsUser/static/css/main.cd5d95a0.css.map",
+    "main.29c38674.js.map": "/Olexsandrik/GuestsUser/static/js/main.29c38674.js.map"
   },
   "entrypoints": [
     "static/css/main.cd5d95a0.css",
-    "static/js/main.6b3080ea.js"
+    "static/js/main.29c38674.js"
   ]
 }

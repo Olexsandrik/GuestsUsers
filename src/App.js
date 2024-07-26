@@ -10,7 +10,7 @@ function App() {
 
   const [users, setUsers] = useState([]);
   const [invites, setInvites] = useState([]);
-  const [Loading, setIsLoading] = useState(false);
+  const [Loading, setIsLoading] = useState(true);
 
   const[success, setSuccess] = useState(false);
 
@@ -21,12 +21,12 @@ function App() {
 
     setTimeout(()=>{
       fetch('https://reqres.in/api/users').then(res=>res.json()).then(json=>{
-      
+   
         setUsers(json.data);
       }).catch(err =>{
   
         console.warn(err);
-        // alert("помилка при отриманні користувачів");
+        alert("помилка при отриманні користувачів");
       }).finally(setIsLoading(false));
     },1000)
     
