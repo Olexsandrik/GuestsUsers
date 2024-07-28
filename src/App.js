@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './index.scss';
+import './index.css';
 import { Success } from './components/Success';
 import { Users } from './components/Users';
 

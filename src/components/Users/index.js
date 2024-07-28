@@ -6,9 +6,7 @@ export const Users = ({ items, isLoading, invites, onClickInvite, setSuccess}) =
   const [findPost, setFindPost] = useState('');
 
   const inputInfo = (findPost)=>{
-    setFindPost(findPost);
-
- 
+    setFindPost(findPost); 
   }
 
  
